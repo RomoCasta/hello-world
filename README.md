@@ -1,2 +1,8 @@
 # hello-world
-GitHub Tutorial
+
+## GitHub Tutorial
+
+Hello there!
+I'm just having *fun* with GH
+
+Cheers
